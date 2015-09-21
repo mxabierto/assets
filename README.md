@@ -1,3 +1,3 @@
 # assets
 
-Los dibus de @diegobeauroyre
+Un repositorio de recursos comunes para nuestros proyectos.
